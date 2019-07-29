@@ -1,0 +1,10 @@
+C:\Users\chama\source\repos\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\chama\source\repos\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\chama\source\repos\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\chama\source\repos\ServerApp\ServerApp\obj\Debug\ServerApp.csprojAssemblyReference.cache
+C:\Users\chama\source\repos\ServerApp\ServerApp\obj\Debug\ServerApp.Form1.resources
+C:\Users\chama\source\repos\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\chama\source\repos\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+C:\Users\chama\source\repos\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\chama\source\repos\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\chama\source\repos\ServerApp\ServerApp\obj\Debug\ServerApp.pdb

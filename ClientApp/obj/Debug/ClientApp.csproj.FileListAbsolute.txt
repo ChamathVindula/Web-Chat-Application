@@ -1,0 +1,10 @@
+C:\Users\chama\source\repos\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\chama\source\repos\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\chama\source\repos\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\chama\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\chama\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\chama\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\chama\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\chama\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\chama\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\chama\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
